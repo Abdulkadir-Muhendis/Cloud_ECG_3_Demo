@@ -14,7 +14,6 @@
 ---
 
 - **Libstock** : https://libstock.mikroe.com/projects/view/2740/ecg-3-cloud-demo
-- **GitHub**   : ${GITHUB_LINK}
 
 ---
 #### Package link
